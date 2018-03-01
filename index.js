@@ -5,8 +5,6 @@ function happyHolidays (string){
 function happyHolidaysTo (name){
   return `Happy holidays, ${name}!`;
 }
-console.log(happyHolidayTo("Louis"));
-
 function happyHolidayTo (holiday, name){
   return 'Happy Independence Day, you!'
 }
